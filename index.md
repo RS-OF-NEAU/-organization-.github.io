@@ -16,7 +16,7 @@
 
 举一个例子来说，假如我要在如图以下五个人中找出一个会打篮球的人。我们发现，这五个人分别是爷爷·奶奶·妈妈·女儿·儿子，我们假定年轻而且是男性的人会打篮球。我可以通过他们的年级是否大于15岁，找出第一组符合年龄条件的人，在通过是男生还是女生选出第二组符合性别条件的人，于是，我们通过两次决策来选出所需要的选择。
 
-![img](file:///C:/Users/崔红涛/AppData/Local/Temp/msohtmlclip1/01/clip_image004.jpg)
+![img](https://user.qzone.qq.com/1739886841?ADUIN=1739886841&ADSESSION=1611282580&ADTAG=CLIENT.QQ.5779_MyTip.0&ADPUBNO=27115&source=namecardhoverstar)
 
 2.熵及信息增益
 
